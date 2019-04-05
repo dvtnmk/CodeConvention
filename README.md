@@ -14,6 +14,3 @@
 | Parameter |	Camel |	public class Convert {<br /> public static int ToInt32(string value); <br/>} |
 
 REF -> [Click!](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/capitalization-conventions)
-
-- **Best Practice - > [Click!](https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices)**
-- **Key word Search Google -> thread.abort() site:stackoverflow.com**
